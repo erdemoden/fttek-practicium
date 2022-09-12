@@ -18,7 +18,7 @@
 
 # verilen tarih aralıklarında bir ürüne yapılan yorum
 
-![](images/Ekran Alıntısı.PNG)
+![](images/Ekran-Alıntısı.PNG)
 
 # bir kullanıcının yapmış olduğu yorumları listeleyen method
 
